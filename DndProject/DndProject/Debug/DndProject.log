@@ -1,0 +1,12 @@
+﻿  Text.cpp
+c:\jonathans stuff\dndproject\dndproject\text.cpp(15): error C2082: redefinition of formal parameter 'text'
+c:\jonathans stuff\dndproject\dndproject\text.cpp(15): error C2065: 'm_renderer': undeclared identifier
+  Generating Code...
+  Compiling...
+  drawer.cpp
+c:\jonathans stuff\dndproject\dndproject\drawer.h(29): warning C4091: 'static ': ignored on left of 'drawer' when no variable is declared
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  world.cpp
+  playerObject.cpp
+  main.cpp
